@@ -6,6 +6,7 @@ from src.utils import read_files, get_args
 
 logging.basicConfig(
     filename="logs.log",
+    filemode="w",
     level=logging.INFO,
 )
 logger = logging.getLogger(__name__)
