@@ -1,0 +1,320 @@
+INFO:__main__:Reading files...
+INFO:src.utils:File stats1.csv
+INFO:src.utils:File stats2.csv
+INFO:__main__:Files read successfully
+INFO:__main__:Creating report generator...
+INFO:__main__:Report generator created successfully
+INFO:__main__:Reports generation...
+INFO:__main__:Building tabulate table...
+INFO:__main__:Tabulate table built successfully
+INFO:__main__:Reading arguments from terminal...
+INFO:__main__:Reading files...
+INFO:src.utils:File stats1.csv
+INFO:src.utils:File stats2.csv
+INFO:__main__:Files read successfully
+INFO:__main__:Creating report generator...
+INFO:__main__:Report generator created successfully
+INFO:__main__:Reports generation...
+INFO:__main__:Building tabulate table...
+INFO:__main__:Tabulate table built successfully
+INFO:__main__:Reading arguments from terminal...
+INFO:__main__:Reading files...
+INFO:src.utils:File stats1.csv
+INFO:src.utils:File stats2.csv
+INFO:__main__:Files read successfully
+INFO:__main__:Creating report generator...
+INFO:__main__:Report generator created successfully
+INFO:__main__:Reports generation...
+INFO:__main__:Building tabulate table...
+INFO:__main__:Tabulate table built successfully
+INFO:src.utils:File /tmp/pytest-of-user/pytest-31/test_one_file0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-31/test_multiple_files0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-31/test_multiple_files0/table_2.csv
+ERROR:test_utils:<ExceptionInfo for raises contextmanager>
+INFO:src.utils:File /tmp/pytest-of-user/pytest-31/test_bad_data0/bad_table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-31/test_empty_file0/bad_table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-31/test_empty_file_with_headers0/only_headers_table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-31/test_generate_success0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-31/test_generate_success0/table_2.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-32/test_one_file0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-32/test_multiple_files0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-32/test_multiple_files0/table_2.csv
+ERROR:test_utils:<ExceptionInfo for raises contextmanager>
+INFO:src.utils:File /tmp/pytest-of-user/pytest-32/test_bad_data0/bad_table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-32/test_empty_file0/bad_table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-32/test_empty_file_with_headers0/only_headers_table.csv
+INFO:src.utils:File /
+INFO:src.utils:File ['/', 't', 'm', 'p', '/', 'p', 'y', 't', 'e', 's', 't', '-', 'o', 'f', '-', 'u', 's', 'e', 'r', '/', 'p', 'y', 't', 'e', 's', 't', '-', '3', '3', '/', 't', 'e', 's', 't', '_', 'o', 'n', 'e', '_', 'f', 'i', 'l', 'e', '0', '/', 't', 'a', 'b', 'l', 'e', '_', '1', '.', 'c', 's', 'v']
+INFO:src.utils:File /tmp/pytest-of-user/pytest-33/test_multiple_files0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-33/test_multiple_files0/table_2.csv
+ERROR:test_utils:<ExceptionInfo for raises contextmanager>
+INFO:src.utils:File /tmp/pytest-of-user/pytest-33/test_bad_data0/bad_table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-33/test_empty_file0/bad_table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-33/test_empty_file_with_headers0/only_headers_table.csv
+INFO:src.utils:File /
+INFO:src.utils:File None
+INFO:src.utils:File /tmp/pytest-of-user/pytest-34/test_multiple_files0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-34/test_multiple_files0/table_2.csv
+ERROR:test_utils:<ExceptionInfo for raises contextmanager>
+INFO:src.utils:File /tmp/pytest-of-user/pytest-34/test_bad_data0/bad_table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-34/test_empty_file0/bad_table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-34/test_empty_file_with_headers0/only_headers_table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-35/test_one_file0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-35/test_multiple_files0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-35/test_multiple_files0/table_2.csv
+ERROR:test_utils:<ExceptionInfo for raises contextmanager>
+INFO:src.utils:File /tmp/pytest-of-user/pytest-35/test_bad_data0/bad_table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-35/test_empty_file0/bad_table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-35/test_empty_file_with_headers0/only_headers_table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-35/test_generate_success0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-36/test_one_file0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-36/test_multiple_files0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-36/test_multiple_files0/table_2.csv
+ERROR:test_utils:<ExceptionInfo for raises contextmanager>
+INFO:src.utils:File /tmp/pytest-of-user/pytest-36/test_bad_data0/bad_table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-36/test_empty_file0/bad_table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-36/test_empty_file_with_headers0/only_headers_table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-36/test_generate_success0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-37/test_one_file0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-37/test_multiple_files0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-37/test_multiple_files0/table_2.csv
+ERROR:test_utils:<ExceptionInfo for raises contextmanager>
+INFO:src.utils:File /tmp/pytest-of-user/pytest-37/test_bad_data0/bad_table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-37/test_empty_file0/bad_table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-37/test_empty_file_with_headers0/only_headers_table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-37/test_generate_success0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-38/test_one_file0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-38/test_multiple_files0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-38/test_multiple_files0/table_2.csv
+ERROR:test_utils:<ExceptionInfo for raises contextmanager>
+INFO:src.utils:File /tmp/pytest-of-user/pytest-38/test_bad_data0/bad_table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-38/test_empty_file0/bad_table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-38/test_empty_file_with_headers0/only_headers_table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-38/test_generate_success0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-39/test_one_file0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-39/test_multiple_files0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-39/test_multiple_files0/table_2.csv
+ERROR:test_utils:<ExceptionInfo for raises contextmanager>
+INFO:src.utils:File /tmp/pytest-of-user/pytest-39/test_bad_data0/bad_table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-39/test_empty_file0/bad_table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-39/test_empty_file_with_headers0/only_headers_table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-39/test_generate_success0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-40/test_one_file0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-40/test_multiple_files0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-40/test_multiple_files0/table_2.csv
+ERROR:test_utils:<ExceptionInfo for raises contextmanager>
+INFO:src.utils:File /tmp/pytest-of-user/pytest-40/test_bad_data0/bad_table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-40/test_empty_file0/bad_table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-40/test_empty_file_with_headers0/only_headers_table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-40/test_generate_success0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-41/test_one_file0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-41/test_multiple_files0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-41/test_multiple_files0/table_2.csv
+ERROR:test_utils:<ExceptionInfo for raises contextmanager>
+INFO:src.utils:File /tmp/pytest-of-user/pytest-41/test_bad_data0/bad_table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-41/test_empty_file0/bad_table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-41/test_empty_file_with_headers0/only_headers_table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-41/test_generate_success0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-42/test_one_file0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-42/test_multiple_files0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-42/test_multiple_files0/table_2.csv
+ERROR:test_utils:<ExceptionInfo for raises contextmanager>
+INFO:src.utils:File /tmp/pytest-of-user/pytest-42/test_bad_data0/bad_table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-42/test_empty_file0/bad_table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-42/test_empty_file_with_headers0/only_headers_table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-42/test_generate_success0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-43/test_one_file0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-43/test_multiple_files0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-43/test_multiple_files0/table_2.csv
+ERROR:test_utils:<ExceptionInfo for raises contextmanager>
+INFO:src.utils:File /tmp/pytest-of-user/pytest-43/test_bad_data0/bad_table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-43/test_empty_file0/bad_table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-43/test_empty_file_with_headers0/only_headers_table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-43/test_generate_success0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-44/test_one_file0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-44/test_multiple_files0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-44/test_multiple_files0/table_2.csv
+ERROR:test_utils:<ExceptionInfo for raises contextmanager>
+INFO:src.utils:File /tmp/pytest-of-user/pytest-44/test_bad_data0/bad_table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-44/test_empty_file0/bad_table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-44/test_empty_file_with_headers0/only_headers_table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-44/test_generate_success0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-44/test_filters0/table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-45/test_one_file0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-45/test_multiple_files0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-45/test_multiple_files0/table_2.csv
+ERROR:test_utils:<ExceptionInfo for raises contextmanager>
+INFO:src.utils:File /tmp/pytest-of-user/pytest-45/test_bad_data0/bad_table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-45/test_empty_file0/bad_table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-45/test_empty_file_with_headers0/only_headers_table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-45/test_generate_success0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-45/test_filters0/table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-46/test_one_file0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-46/test_multiple_files0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-46/test_multiple_files0/table_2.csv
+ERROR:test_utils:<ExceptionInfo for raises contextmanager>
+INFO:src.utils:File /tmp/pytest-of-user/pytest-46/test_bad_data0/bad_table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-46/test_empty_file0/bad_table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-46/test_empty_file_with_headers0/only_headers_table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-46/test_generate_success0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-46/test_filters0/table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-47/test_one_file0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-47/test_multiple_files0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-47/test_multiple_files0/table_2.csv
+ERROR:test_utils:<ExceptionInfo for raises contextmanager>
+INFO:src.utils:File /tmp/pytest-of-user/pytest-47/test_bad_data0/bad_table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-47/test_empty_file0/bad_table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-47/test_empty_file_with_headers0/only_headers_table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-47/test_generate_success0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-47/test_filters0/table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-47/test_rows_sorted0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-48/test_one_file0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-48/test_multiple_files0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-48/test_multiple_files0/table_2.csv
+ERROR:test_utils:<ExceptionInfo for raises contextmanager>
+INFO:src.utils:File /tmp/pytest-of-user/pytest-48/test_bad_data0/bad_table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-48/test_empty_file0/bad_table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-48/test_empty_file_with_headers0/only_headers_table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-48/test_generate_success0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-48/test_filters0/table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-48/test_rows_sorted0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-48/test_rows_sorted0/table_2.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-49/test_one_file0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-49/test_multiple_files0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-49/test_multiple_files0/table_2.csv
+ERROR:test_utils:<ExceptionInfo for raises contextmanager>
+INFO:src.utils:File /tmp/pytest-of-user/pytest-49/test_bad_data0/bad_table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-49/test_empty_file0/bad_table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-49/test_empty_file_with_headers0/only_headers_table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-49/test_generate_success0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-49/test_filters0/table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-49/test_rows_sorted0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-49/test_rows_sorted0/table_2.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-50/test_one_file0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-50/test_multiple_files0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-50/test_multiple_files0/table_2.csv
+ERROR:test_utils:<ExceptionInfo for raises contextmanager>
+INFO:src.utils:File /tmp/pytest-of-user/pytest-50/test_bad_data0/bad_table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-50/test_empty_file0/bad_table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-50/test_empty_file_with_headers0/only_headers_table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-50/test_generate_success0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-50/test_filters0/table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-50/test_rows_sorted0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-50/test_rows_sorted0/table_2.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-50/test_sorting0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-51/test_one_file0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-51/test_multiple_files0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-51/test_multiple_files0/table_2.csv
+ERROR:test_utils:<ExceptionInfo for raises contextmanager>
+INFO:src.utils:File /tmp/pytest-of-user/pytest-51/test_bad_data0/bad_table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-51/test_empty_file0/bad_table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-51/test_empty_file_with_headers0/only_headers_table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-51/test_generate_success0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-51/test_filters0/table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-51/test_rows_sorted0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-51/test_rows_sorted0/table_2.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-51/test_sorting0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-52/test_one_file0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-52/test_multiple_files0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-52/test_multiple_files0/table_2.csv
+ERROR:test_utils:<ExceptionInfo for raises contextmanager>
+INFO:src.utils:File /tmp/pytest-of-user/pytest-52/test_bad_data0/bad_table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-52/test_empty_file0/bad_table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-52/test_empty_file_with_headers0/only_headers_table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-52/test_generate_success0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-52/test_filters0/table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-52/test_rows_sorted0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-52/test_rows_sorted0/table_2.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-52/test_sorting0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-52/test_sorting0/table_2.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-53/test_one_file0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-53/test_multiple_files0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-53/test_multiple_files0/table_2.csv
+ERROR:test_utils:<ExceptionInfo for raises contextmanager>
+INFO:src.utils:File /tmp/pytest-of-user/pytest-53/test_bad_data0/bad_table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-53/test_empty_file0/bad_table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-53/test_empty_file_with_headers0/only_headers_table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-53/test_generate_success0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-53/test_filters0/table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-53/test_rows_sorted0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-53/test_rows_sorted0/table_2.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-53/test_sorting0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-53/test_sorting0/table_2.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-54/test_one_file0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-54/test_multiple_files0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-54/test_multiple_files0/table_2.csv
+ERROR:test_utils:<ExceptionInfo for raises contextmanager>
+INFO:src.utils:File /tmp/pytest-of-user/pytest-54/test_bad_data0/bad_table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-54/test_empty_file0/bad_table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-54/test_empty_file_with_headers0/only_headers_table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-54/test_generate_success0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-54/test_filters0/table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-54/test_rows_sorted0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-54/test_rows_sorted0/table_2.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-54/test_sorting0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-54/test_sorting0/table_2.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-55/test_one_file0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-55/test_multiple_files0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-55/test_multiple_files0/table_2.csv
+ERROR:test_utils:<ExceptionInfo for raises contextmanager>
+INFO:src.utils:File /tmp/pytest-of-user/pytest-55/test_bad_data0/bad_table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-55/test_empty_file0/bad_table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-55/test_empty_file_with_headers0/only_headers_table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-55/test_generate_success0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-55/test_filters0/table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-55/test_rows_sorted0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-55/test_rows_sorted0/table_2.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-55/test_sorting0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-55/test_sorting0/table_2.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-56/test_one_file0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-56/test_multiple_files0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-56/test_multiple_files0/table_2.csv
+ERROR:test_utils:<ExceptionInfo for raises contextmanager>
+INFO:src.utils:File /tmp/pytest-of-user/pytest-56/test_bad_data0/bad_table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-56/test_empty_file0/bad_table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-56/test_empty_file_with_headers0/only_headers_table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-56/test_generate_success0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-56/test_filters0/table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-56/test_rows_sorted0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-56/test_rows_sorted0/table_2.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-56/test_sorting0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-56/test_sorting0/table_2.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-57/test_one_file0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-57/test_multiple_files0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-57/test_multiple_files0/table_2.csv
+ERROR:test_utils:<ExceptionInfo for raises contextmanager>
+INFO:src.utils:File /tmp/pytest-of-user/pytest-57/test_bad_data0/bad_table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-57/test_empty_file0/bad_table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-57/test_empty_file_with_headers0/only_headers_table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-57/test_generate_success0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-57/test_filters0/table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-57/test_rows_sorted0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-57/test_rows_sorted0/table_2.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-57/test_sorting0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-57/test_sorting0/table_2.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-58/test_one_file0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-58/test_multiple_files0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-58/test_multiple_files0/table_2.csv
+ERROR:test_utils:<ExceptionInfo for raises contextmanager>
+INFO:src.utils:File /tmp/pytest-of-user/pytest-58/test_bad_data0/bad_table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-58/test_empty_file0/bad_table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-58/test_empty_file_with_headers0/only_headers_table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-58/test_generate_success0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-58/test_filters0/table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-58/test_rows_sorted0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-58/test_rows_sorted0/table_2.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-58/test_sorting0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-58/test_sorting0/table_2.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-59/test_one_file0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-59/test_multiple_files0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-59/test_multiple_files0/table_2.csv
+ERROR:test_utils:<ExceptionInfo for raises contextmanager>
+INFO:src.utils:File /tmp/pytest-of-user/pytest-59/test_bad_data0/bad_table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-59/test_empty_file0/bad_table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-59/test_empty_file_with_headers0/only_headers_table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-59/test_generate_success0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-59/test_filters0/table.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-59/test_rows_sorted0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-59/test_rows_sorted0/table_2.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-59/test_sorting0/table_1.csv
+INFO:src.utils:File /tmp/pytest-of-user/pytest-59/test_sorting0/table_2.csv
