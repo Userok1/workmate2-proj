@@ -1,4 +1,5 @@
 from abc import ABC, abstractmethod
+from typing import Any
 
 from src.utils import YTVideoData, Headers
 
@@ -7,7 +8,7 @@ class BaseYTReport(ABC):
     @abstractmethod
     def generate(
         self, rows: list[YTVideoData]
-    ) -> tuple[list[str], list[tuple[str, float, float]]]:
+    ) -> Any:
         pass
 
 
